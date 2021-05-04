@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bayuPrabu
 - 👀 I’m interested in web design & ui/ux design
 - 🌱 I’m currently learning css & javascript
-- 💞️ I’m looking to collaborate on project
+- 💞️ I’m looking to collaborate on your project
 - 📫 How to reach me https://bayuprabu.my.id
 
 <!---
