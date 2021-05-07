@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bayuPrabu
 - 👀 I’m interested in web design & ui/ux design
-- 🌱 I’m currently learning css, javascript, & UI Design
+- 🌱 I’m currently learning HTML, CSS, Javascript & UI Design
 - 💞️ I’m looking to collaborate on your team
 - 📫 How to reach me https://bayuprabu.my.id
 
